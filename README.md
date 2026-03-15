@@ -3,12 +3,12 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ░░ NEON HEADER BANNER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Larendra%20Developer&fontSize=60&fontColor=00fff0&animation=fadeIn&fontAlignY=55&stroke=00fff0&strokeWidth=1&desc=IT%20Student%20%7C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descSize=16&descColor=39ff14&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Larendra%20Developer&fontSize=60&fontColor=00fff0&animation=fadeIn&fontAlignY=55&stroke=00fff0&strokeWidth=1&desc=IT%20Student%20%7C%20Indonesia&descSize=16&descColor=39ff14&descAlignY=75" width="100%"/>
 
 <!-- ░░ ANIMATED TYPING ░░ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2800&pause=700&color=00FFF0&center=true&vCenter=true&width=650&height=70&lines=%3E+Hi%2C+I'm+Larendra+%F0%9F%91%BE;%3E+Information+Technology+Student;%3E+Learning+Cloud+Computing+%26+AI+%E2%98%81%EF%B8%8F;%3E+Future+Software+Engineer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=24&duration=2800&pause=700&color=00FFF0&center=true&vCenter=true&width=750&height=70&lines=%3E+Hi%2C+I'm+Larendra;%3E+Information+Technology+Student;%3E+Learning+Cloud+Computing+%26+AI;%3E+Future+Software+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -237,6 +237,10 @@ $ ./connect --target larendra --protocol social
 &nbsp;
 <a href="https://github.com/khoiri2205" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://discord.com/users/emonygy" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0D1117"/>
 </a>
 
 <br/><br/>
