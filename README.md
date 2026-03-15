@@ -35,7 +35,7 @@
   ║  LOCATION : Indonesia 🌏                             ║
   ║  FOCUS    : Web Dev · Cloud · AI · Game Dev          ║
   ║  STATUS   : Actively Learning  [=========>] 80%      ║
-  ║  HOBBY    : Coffee ☕ + Code 💻 = Magic ✨            ║
+  ║  HOBBY    : Coffee ☕ + Code 💻 = Magic ✨          ║
   ╚══════════════════════════════════════════════════════╝
 ```
 
