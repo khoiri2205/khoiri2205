@@ -172,7 +172,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" colspan="2">
+    <td width="50%" valign="top">
       <h3 align="center">
         <img src="https://img.shields.io/badge/PROJECT-03-%2300fff0?style=flat-square&labelColor=0D1117"/>
         📚 Sistem Perpustakaan
@@ -189,6 +189,28 @@
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <img src="https://img.shields.io/badge/PROJECT-04-%2300fff0?style=flat-square&labelColor=0D1117"/>
+        ☕ Kopi Nusantara Cafe
+      </h3>
+      <div align="center">
+        <a href="https://github.com/khoiri2205/kopi-nusantara-cafe-system">
+          <img src="https://img.shields.io/badge/[ VIEW_REPO ]-%2339ff14?style=for-the-badge&logo=github&logoColor=0D1117"/>
+        </a>
+      </div>
+      <br/>
+      <p align="center">
+        <strong>Sistem manajemen cafe</strong> Kopi Nusantara berbasis web.<br/>
+        Mengelola menu, pesanan, dan transaksi secara digital.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
     </td>
   </tr>
