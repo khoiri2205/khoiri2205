@@ -130,90 +130,65 @@
     <td width="50%" valign="top">
       <h3 align="center">
         <img src="https://img.shields.io/badge/PROJECT-01-%2300fff0?style=flat-square&labelColor=0D1117"/>
-        🎮 Multiplayer Tebak Kata
+        🤖 Sistem Absensi Online
       </h3>
       <div align="center">
-        <a href="https://github.com/khoiri2205/tebak-kata-game">
+        <a href="https://github.com/khoiri2205/Sistem-Absensi-Online-Berbasis-n8n-">
           <img src="https://img.shields.io/badge/[ VIEW_REPO ]-%2339ff14?style=for-the-badge&logo=github&logoColor=0D1117"/>
         </a>
       </div>
       <br/>
       <p align="center">
-        Real-time <strong>multiplayer word-guessing game</strong> powered by WebSockets.<br/>
-        Race against others to guess the hidden kata before time runs out!
+        <strong>Automated Attendance System</strong> berbasis workflow n8n.<br/>
+        Integrasi Telegram & Google Sheets untuk pencatatan Hadir, Izin, dan Rekap otomatis.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io"/>
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase"/>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
         <img src="https://img.shields.io/badge/PROJECT-02-%2300fff0?style=flat-square&labelColor=0D1117"/>
-        ☕ Kopi Nusantara
+        🎵 MelodyCore
       </h3>
       <div align="center">
-        <a href="https://github.com/khoiri2205/kopi-nusantara">
+        <a href="https://github.com/khoiri2205/melodycore">
           <img src="https://img.shields.io/badge/[ VIEW_REPO ]-%2339ff14?style=for-the-badge&logo=github&logoColor=0D1117"/>
         </a>
       </div>
       <br/>
       <p align="center">
-        A <strong>full-stack coffee shop website</strong> celebrating Indonesia's coffee culture.<br/>
-        Online menu, ordering system, and a responsive modern UI.
+        <strong>Discord Music Bot</strong> yang memutar musik dari YouTube dan Spotify.<br/>
+        Fitur queue, skip, pause, dan kontrol musik langsung dari Discord.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" colspan="2">
       <h3 align="center">
         <img src="https://img.shields.io/badge/PROJECT-03-%2300fff0?style=flat-square&labelColor=0D1117"/>
-        🤖 Discord Bot
+        📚 Sistem Perpustakaan
       </h3>
       <div align="center">
-        <a href="https://github.com/khoiri2205/discord-bot">
+        <a href="https://github.com/khoiri2205/sistem-perpustakaan">
           <img src="https://img.shields.io/badge/[ VIEW_REPO ]-%2339ff14?style=for-the-badge&logo=github&logoColor=0D1117"/>
         </a>
       </div>
       <br/>
       <p align="center">
-        A powerful <strong>multi-feature Discord bot</strong> with slash commands.<br/>
-        Moderation, music playback, and fun utilities — running 24/7 in the cloud.
+        <strong>Sistem manajemen perpustakaan</strong> berbasis C++ sebagai tugas akhir semester 2.<br/>
+        Fitur peminjaman, pengembalian, dan pencarian buku secara terstruktur.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-        <img src="https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/PROJECT-04-%2300fff0?style=flat-square&labelColor=0D1117"/>
-        🏥 Smart Queue System
-      </h3>
-      <div align="center">
-        <a href="https://github.com/khoiri2205/smart-queue-system">
-          <img src="https://img.shields.io/badge/[ VIEW_REPO ]-%2339ff14?style=for-the-badge&logo=github&logoColor=0D1117"/>
-        </a>
-      </div>
-      <br/>
-      <p align="center">
-        An AI-assisted <strong>digital queue management platform</strong> for clinics & offices.<br/>
-        Live display board, SMS alerts, and an admin control dashboard.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/MySQL-00f?style=flat-square&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
       </p>
     </td>
   </tr>
