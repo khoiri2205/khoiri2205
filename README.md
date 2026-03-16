@@ -1,9 +1,9 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--           LARENDRA —                                                 -->
+<!--           LARENDRA — CYBERPUNK NEON GitHub Profile README          -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ░░ NEON HEADER BANNER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Larendra%20Developer&fontSize=60&fontColor=00fff0&animation=fadeIn&fontAlignY=55&stroke=00fff0&strokeWidth=1&desc=IT%20Student%20%7C%20Indonesia&descSize=16&descColor=39ff14&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Larendra&fontSize=72&fontColor=00fff0&animation=fadeIn&fontAlignY=55&stroke=00fff0&strokeWidth=1&desc=IT%20Student%20%7C%20Indonesia&descSize=16&descColor=39ff14&descAlignY=75" width="100%"/>
 
 <!-- ░░ ANIMATED TYPING ░░ -->
 <div align="center">
