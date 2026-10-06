@@ -1,6 +1,6 @@
 <!-- Rido's GitHub profile README. Palette matches the portfolio: cobalt on dark. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2347F5,100:0E1F6B&height=200&section=header&text=Rido&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Indonesia&descSize=18&descColor=C9D3E3&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2347F5,100:0E1F6B&height=200&section=header&text=larendra&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Indonesia&descSize=18&descColor=C9D3E3&descAlignY=58" width="100%"/>
 
 <div align="center">
 
@@ -22,8 +22,7 @@
 ┌──(rido@amikom)-[~/profile]
 └─$ cat about.txt
 
-  ╔════════════════════════════════════════════════╗
-  ║  NAME     : Muhammad Khoiri Noor Ridlo (Rido)  ║          ║
+  ╔════════════════════════════════════════════════╗         ║
   ║  LOCATION : Indonesia                          ║
   ║  FOCUS    : Web Dev · Cloud · AI               ║
   ║  NOW      : Laravel internals & testing        ║
