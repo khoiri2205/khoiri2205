@@ -50,8 +50,7 @@
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=6F8BFF&labelColor=0D1117&color=0D1117)
 
 ### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=6F8BFF&labelColor=0D1117&color=0D1117)
-
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-0D1117?style=for-the-badge&labelColor=0D1117&color=0D1117)
 ### Tools
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![VS_Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=6F8BFF&labelColor=0D1117&color=0D1117) ![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=6F8BFF&labelColor=0D1117&color=0D1117)
 
