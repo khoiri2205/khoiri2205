@@ -32,10 +32,9 @@
 
 <div align="center">
 
-| 🌐 Web Dev | ☁️ Cloud Computing | 🤖 Artificial Intelligence |
+| 🌐 Web Dev | ☁️ Cloud Computing | 🤖 Artificial Intelligence |  |
 |:---:|:---:|:---:|:---:|
-| `HTML/CSS/JS · PHP/Laravel` | `Amazon Web Services` | `Python / ML` |
-
+| `HTML/CSS/JS · PHP/Laravel` | `Amazon Web Services` | `Python / ML` | `` 
 </div>
 
 ---
