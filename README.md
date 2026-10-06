@@ -23,9 +23,7 @@
 └─$ cat about.txt
 
   ╔════════════════════════════════════════════════╗
-  ║  NAME     : Muhammad Khoiri Noor Ridlo (Rido)  ║
-  ║  ROLE     : Junior Software Developer          ║
-  ║  STUDY    : IT · STMIK AMIKOM Surakarta        ║
+  ║  NAME     : Muhammad Khoiri Noor Ridlo (Rido)  ║          ║
   ║  LOCATION : Indonesia                          ║
   ║  FOCUS    : Web Dev · Cloud · AI               ║
   ║  NOW      : Laravel internals & testing        ║
