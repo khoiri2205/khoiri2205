@@ -22,7 +22,7 @@
 ┌──(rido@amikom)-[~/profile]
 └─$ cat about.txt
 
-  ╔════════════════════════════════════════════════╗         ║
+  ╔════════════════════════════════════════════════╗ 
   ║  LOCATION : Indonesia                          ║
   ║  FOCUS    : Web Dev · Cloud · AI               ║
   ║  NOW      : Laravel internals & testing        ║
