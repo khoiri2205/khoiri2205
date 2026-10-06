@@ -32,9 +32,9 @@
 
 <div align="center">
 
-| 🌐 Web Dev | ☁️ Cloud Computing | 🤖 Artificial Intelligence | 🎮 Game Dev |
+| 🌐 Web Dev | ☁️ Cloud Computing | 🤖 Artificial Intelligence |
 |:---:|:---:|:---:|:---:|
-| `HTML/CSS/JS · PHP/Laravel` | `Firebase` | `Python / ML` | `In Progress` |
+| `HTML/CSS/JS · PHP/Laravel` | `Amazon Web Services` | `Python / ML` |
 
 </div>
 
