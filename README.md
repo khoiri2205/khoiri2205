@@ -182,7 +182,7 @@ $ ./connect --target rido --protocol social
 <div align="center">
   <sub>
     <img src="https://img.shields.io/badge/STATUS-ONLINE-6F8BFF?style=flat-square&labelColor=0D1117"/>
-    &nbsp;<strong>Rido</strong> · STMIK AMIKOM Surakarta · Indonesia 🇮🇩&nbsp;
+    &nbsp;<strong>Larendra</strong> · Indonesia 🇮🇩&nbsp;
     <img src="https://img.shields.io/badge/BUILD-PASSING-6F8BFF?style=flat-square&labelColor=0D1117"/>
   </sub>
 </div>
