@@ -30,8 +30,7 @@
 
   ╔══════════════════════════════════════════════════════╗
   ║  NAME     : Larendra                                 ║
-  ║  ROLE     : Information Technology Student           ║
-  ║  SCHOOL   : STMIK AMIKOM Surakarta                   ║
+  ║  ROLE     : Information Technology Student           ║                  ║
   ║  LOCATION : Indonesia                                ║
   ║  FOCUS    : Web Dev · Cloud · AI · Game Dev          ║
   ║  STATUS   : Actively Learning  [=========>] 80%      ║
