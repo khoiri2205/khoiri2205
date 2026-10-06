@@ -19,7 +19,7 @@
 </div>
 
 ```bash
-┌──(rido@amikom)-[~/profile]
+┌──(khoiri2205)-[~/profile]
 └─$ cat about.txt
 
   ╔════════════════════════════════════════════════╗ 
